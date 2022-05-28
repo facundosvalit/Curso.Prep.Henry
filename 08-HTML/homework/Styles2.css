@@ -1,32 +1,26 @@
   h1 {
-    color: blue;
+    color: rgb(236, 236, 247);
   }
  img {
     width: 400px;
   }
  #thirdDiv {
-    height: 500px;
-    width: 600px;
-    background-color: green;
-    border: 10px solid blue;
-    margin: 50px;
-    padding-left: 20px;
-    padding-top: 50px;
+  text-align: center; 
+  border: 1px solid blue
   }
 #spanId {
     font-size: 28px;
     margin: 50px;
   }
-.divClass {
-    background-color: aquamarine;
-    text-align: center;
+  #main{
+    margin-top: 10%;
   }
 body {
   background-image: url("https://www.cinemascomics.com/wp-content/uploads/2020/08/goku-dragon-ball-super-ultra-instinto.jpg");
 }
 p {
   text-align: center;
-} 
+}
 #title {
   text-align: center;
 }
